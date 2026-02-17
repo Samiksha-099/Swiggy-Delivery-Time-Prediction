@@ -1,0 +1,1 @@
+This project focuses on building a machine learning model to predict food delivery time and cost for Swiggy orders based on various factors such as restaurant rating, distance, traffic conditions, and order details. The data was cleaned, preprocessed, and analyzed using exploratory data analysis (EDA) to understand key patterns affecting delivery.
